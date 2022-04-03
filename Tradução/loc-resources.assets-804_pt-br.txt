@@ -483,7 +483,7 @@ In order to protect the identities of Very Very Valet agents, their names and ap
 Joke text.  Playing up the disclaimer used in serious movies, or a spy thriller where names need to be changed.
 Afin de protéger l'identité des agents de Very Very Valet, leur nom et leur apparence peuvent avoir été changés ou modifiés.
 Die Namen und das Aussehen der Very-Very-Valet-Agenten wurden von der Redaktion geändert, um deren Privatsphäre zu wahren.
-Para proteger la identidad de los agentes de Very Very Valet, sus nombres y aspectos pueden aparecer con cambios o modificaciones.
+Para proteger a identidade dos agentes de Very Very Valet, seus nomes e semelhanças podem aparecer com alterações ou modificações.
 SECTION / SAVE SELECT UI
 file_index
 Save {0}
@@ -1529,13 +1529,13 @@ intro_bowl_set
 the
 les
 die
-los
+Nos
 intro_bowl
 Pins!
 quilles !
 birilli!
 Kegel!
-bolas!
+Pinos!
 intro_garbage_ready
 Cleanup
 Players must throw away all of the garabge bags around the level
@@ -1564,7 +1564,7 @@ intro_sweeper_set
 the
 la
 lo
-den
+A
 intro_sweeper
 Dirt!
 boue !
@@ -1601,7 +1601,7 @@ intro_launcher_set
 the
 le
 gli
-über die
+No
 intro_launcher
 Gap!
 ravin ! 
