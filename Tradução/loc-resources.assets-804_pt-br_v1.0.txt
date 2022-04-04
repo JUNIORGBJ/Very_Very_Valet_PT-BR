@@ -1037,21 +1037,21 @@ As short as possible.  Pins as in bowling pins
 Touchez les quilles
 Colpisci i birilli
 Triff Kegel
-Jogar boliche
+Remova os pinos
 sign_bonus_garbage
 Toss Garbage
 As short as possible.  Garbage as in garbage bags throw into a dumpster
 Jetez les poubelles
 Raccogli i rifiuti
 Wirf Müll ab
-Jogar o lixo fora
+Colete o lixo
 sign_bonus_sweep
 Clean Dirt
 As short as possible.  Dirt as in mud, brown goo on the street
 Nettoyez la boue
 Ripulisci
 Reinige Schmutz
-Limpar a lama
+Limpe a lama
 sign_bonus_mixed
 Go Wild!
 As short as possible.  This mode is a combination of all modes - here "wild" as in a "wild card"
@@ -1065,7 +1065,7 @@ As short as possible
 Ramenez les voitures
 Restituisci le auto
 Übergib Autos
-Devolva os carros
+Devolva os veículos
 sign_return_toast
 Return to Any Zone!
 "Ramenez-la dans
@@ -1248,7 +1248,7 @@ timer_minutes_toast
 [e:shake]{0} minutes ![/e]
 [e:shake]{0} minuti![/e]
 [e:shake]{0} Minuten![/e]
-[e:shake]¡{0} minutos![/e]
+[e:shake]{0} minutos![/e]
 high_score_toast
 [e:wave]High Score![/e]
 [e:wave]Meilleur score ![/e]
@@ -1506,78 +1506,78 @@ Alternate word/translation for ""valet"": ""Go!"""
 À vos marques...
 Pronti?
 Auf die Plätze …
-Preparados?
+Preparar!
 intro_set
 Set...
 Prêt...
 Partenza...
-Prontos...
+Pronto...
 intro_valet
 Valet!
 Voiturier !
 Parcheggiare!
 parken!
-MANOBRE!
+MANOBRAR!
 intro_bowl_ready
 Hit
 Players must hit all of the bowling pins in the level
 Tapez
 Colpisci
 Trefft
-Bater
+Preparar!
 intro_bowl_set
 the
 les
 die
-Nos
+Pronto...
 intro_bowl
 Pins!
 quilles !
 birilli!
 Kegel!
-Pinos!
+DERRUBAR!
 intro_garbage_ready
 Cleanup
 Players must throw away all of the garabge bags around the level
 Rangez
 Raccogli
 Werft
-Limpar
+Praparar!
 intro_garbage_set
 the
 les
-O
+Pronto...
 intro_garbage
 Garbage!
 poubelles !
 rifiuti!
 ab!
-Lixo!
+COLETAR!
 intro_sweeper_ready
 Sweep
 Players must cleanup dirty surfaces using a street sweeper
 Nettoyez
 Ripulisci
 Reinigt
-Limpar
+Preparar!
 intro_sweeper_set
 the
 la
 lo
-A
+Pronto...
 intro_sweeper
 Dirt!
 boue !
 sporco!
 Schmutz!
-Lama!
+LIMPAR!
 intro_combo_ready
 Bowl
 A level combining bowling pins, garbage bags, and street sweepers
 Renversez
 Colpisci
 Bowlt,
-Bater
+Derrubar
 intro_combo_set
 Clean
 nettoyez
@@ -1589,44 +1589,44 @@ Sweep!
 balayez ! 
 Pulisci!
 reinigt!
-Limpar
+Varrer
 intro_launcher_ready
 Jump
 Players use car "launchers" to throw cars across a gap in the level
 Survolez
-Salta
+Preparar!
 Springt
 Pular
 intro_launcher_set
 the
 le
 gli
-No
+Pronto...
 intro_launcher
 Gap!
 ravin ! 
 ostacoli!
 Lücke!
-Buraco!
+PULAR!
 intro_plane_ready
 Time
 Level takes place at an airport - players are helping customers arriving and leaving the aiport
 C'est
 Tempo
 Zeit
-Hora
+Preparar!
 intro_plane_set
 to
 l'heure
 di
 zum
-de
+Pronto...
 intro_plane
 Deplane!
 de sauter !
 atterrare!
 Abspringen!
-desembarcar!
+DESEMBARCAR!
 intro_earthquake_ready
 Rumble...
 This level features frequenct earthquakes that shake and move the level
@@ -1650,7 +1650,7 @@ Players must avoid obstacles, and then blow the obstacles up with dynamite
 Esquivez
 Schiva
 Weicht
-Esquiva
+Esquivar
 intro_boss_set
 and
 et
